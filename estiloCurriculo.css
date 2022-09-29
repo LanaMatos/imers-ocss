@@ -1,0 +1,43 @@
+body {
+    background-image: url("fundopagina.jpg");
+    background-size: auto 100vh; 
+    font-family: Arial;
+    height: 100vh;
+}
+
+.menu{
+    background-color: blue;
+}
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+
+.menu li {
+   list-style: none; 
+  }
+
+header{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    /*background:darkgrey;*/
+}
+
+#endereço{
+    
+    text-align: left;
+}
+
+p{
+    font-size: 20px;
+}
+
+.seçoes{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+/*main{
+    margin-inline: ;
+}*/
